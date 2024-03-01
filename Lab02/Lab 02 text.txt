@@ -1,0 +1,36 @@
+2:02
+1 of 1
+Institute of Digital Technology
+Computer Programming Fundamental
+Lab 02
+Using C programming to write the following program:
+1. Declare and assign the value for 2 variables int a =5 and int b = 10. Then print the value of a
+and b.
+2. Create two variables, num1 set to 10, and num2 set to 30. Proceed to add these two
+variables together and display the result
+3. Initialize three variables: num1 with a value of 20.5, num2 with a value of 30.2, and
+num3 with a value of 50. Perform the summation of these three variables and display
+the result.
+ill 4G
+4. Declare two variables name and age then assign your name and age to the variables.
+Finally, display name and age respectively.
+5. Declare 3 variables name, institute and a major; assign the value to variable. Then, display
+the following message: 'Hello, I am [name]. I am studying [major] at [institute/university].
+6. Declare two integers variables 'a' and 'b' then assign the value 100 and 5 respectively.
+Perform arithmetic operations (+,-, *. /) using these variables, and then print the result along
+with the details of the operation used.
+7. Declare 2 variables width and height of a rectangle; assign the value of width and
+height. Calculate the area of the rectangle and provide a detailed explanation of the
+operation.
+8. Declare one variable radius of a circle; assign the value of radius. Calculate the perimeter
+(circumference) of the circle and display the result.
+DO
+<
+9. Prompt the user to input their age and height. Store the entered values in variables
+named 'age' and 'height', respectively. Finally, display the values of 'age' and 'height'
+back to the screen.
+10. prompts the user to input two integers, assigning them to variables 'a' and 'b' respectively.
+Perform arithmetic operations (+,-, *, /) using these variables, and then print the result along
+with the details of the operation used.
+GOOD LUCK!
+elearning.cadt.edu.kh
